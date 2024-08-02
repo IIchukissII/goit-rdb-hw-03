@@ -28,7 +28,7 @@ select
 	min(price) as min_price
 from mydb.products;
 ```
-![](./img/3.PNG)
+![](./img/31.PNG)
 
 ## 3. Обрання унікальних значень та сортування
 
